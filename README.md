@@ -4,3 +4,5 @@ This is the starter template for the [build your own AI writing assistant w/ GPT
 
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+# gpt3-extension-michaelscottbot
+Chrome Extension for Michael Scott bot in Calmly text editor
